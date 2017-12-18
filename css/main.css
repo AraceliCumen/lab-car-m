@@ -25,13 +25,42 @@ body{
 p{
   font-size: 0.9rem;
 }
+/*Estilos para seccion tarifa*/
+.sec-rate{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  
+}
+.mape{
+  padding: 1rem;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
 /*Estilos para seccion conduce*/
 .sec-drive{
  background-image: url(../assets/images/conduce.jpg);
  background-size: cover;
  background-position: center;
  width: 100%;
+ padding-bottom: 20px;
+ padding-top: 20px;
 }
 .c-black{
   color: #333;
+}
+.opacity{
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  height: 400px;
+  width: 100%;
+}
+.form-rate{
+  padding-bottom: 2rem!important;
+  padding-top: 2rem!important;
+}
+.p-0{
+  padding-right: 0;
+}
+.br-0{
+  border-right: 0;
 }
