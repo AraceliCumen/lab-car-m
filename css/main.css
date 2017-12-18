@@ -1,0 +1,37 @@
+body{
+  font-family: "Raleway";
+}
+/*Estilos para footer*/
+.footer-c{
+  background-color: #333!important;
+}
+/*Estilos para seccion de tarifas*/
+.bgc-orange{
+  background-color: #f7b617;
+}
+.input-tarifa{
+  border-radius: 6px!important;
+  border: 1px solid #fff!important;
+  height: 2rem!important;
+  width: 50%!important;
+  color:#fff!important;
+}
+.c-white{
+  color: #fff;
+}
+.f-bold{
+  font-weight: bold;
+}
+p{
+  font-size: 0.9rem;
+}
+/*Estilos para seccion conduce*/
+.sec-drive{
+ background-image: url(../assets/images/conduce.jpg);
+ background-size: cover;
+ background-position: center;
+ width: 100%;
+}
+.c-black{
+  color: #333;
+}
